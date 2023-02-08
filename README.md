@@ -3,6 +3,51 @@
 function plusThree(num) {
   return num + 3;
 }
+function plusThree(num) {
+  return num + 3;
+}
+
+const answer = plusThree(5);
+function plusThree(num) {
+  return num + 3;
+}
+
+const answer = plusThree(5);function plusThree(num) {
+  return num + 3;
+}function plusThree(num) {
+  return num + 3;
+}
+
+const answer = plusThree(5);
+function plusThree(num) {
+  return num + 3;
+}
+
+const answer = plusThree(5);function plusThree(num) {
+  return num + 3;
+}function plusThree(num) {
+  return num + 3;
+}
+
+const answer = plusThree(5);
+function plusThree(num) {
+  return num + 3;
+}
+
+const answer = plusThree(5);function plusThree(num) {
+  return num + 3;
+}function plusThree(num) {
+  return num + 3;
+}
+
+const answer = plusThree(5);
+function plusThree(num) {
+  return num + 3;
+}
+
+const answer = plusThree(5);function plusThree(num) {
+  return num + 3;
+}
 
 const answer = plusThree(5);
 function plusThree(num) {
